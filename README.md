@@ -1,5 +1,5 @@
 # portfolio.github.io
-https://rommansh.github.io/portfolio.github.io/magic_Solutions/
+https://rommansh.github.io/portfolio.github.io/%D0%BCagic_Solutions/
 
 https://rommansh.github.io/portfolio.github.io/puls/
 
